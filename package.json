@@ -22,7 +22,7 @@
     "@types/styled-components": "^4.1.10",
     "babel-plugin-styled-components": "^1.10.0",
     "gh-pages": "^2.0.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-icons": "^3.4.0",
